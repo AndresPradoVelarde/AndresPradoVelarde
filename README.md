@@ -4,8 +4,7 @@
 
 Desarrollador de Software | Java | SpringBoot | JavaScript | React Native | MySQL | Oracle | Egresado
 
-🔗 [LinkedIn](www.linkedin.com/in/andrés-pradovelarde-9a30ba201)
-
+🔗 [LinkedIn]www.linkedin.com/in/andrés-pradovelarde-9a30ba201
 ---
 
 ## Sobre Mí
