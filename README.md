@@ -1,10 +1,29 @@
-### Hi there 👋
+# ¡Bienvenido/a a mi perfil! 👋
 
-**AndresPradoVelarde/AndresPradoVelarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Andrés Prado Velarde
 
-Here are some ideas to get you started:
+Desarrollador de Software | Java | SpringBoot | JavaScript | React Native | MySQL | Oracle | Egresado
 
-- 🔭 I’m currently working on Goit
-- 🌱 I’m currently learning Git
-- 👯 I’m looking to collaborate on nose xd
-- 😄 Pronouns: HelicopteroDeAsalto
+🔗 [LinkedIn](www.linkedin.com/in/andrés-pradovelarde-9a30ba201)
+
+---
+
+## Sobre Mí
+
+¡Hola! Soy Andrés, un apasionado desarrollador de software con experiencia en la creación, optimización y escalabilidad de aplicaciones empresariales. Mi trayectoria se ha enfocado en proyectos innovadores donde he contribuido al éxito y la evolución tecnológica de las soluciones entregadas.
+
+Mi filosofía profesional se basa en el aprendizaje continuo y el trabajo colaborativo. Disfruto convirtiendo desafíos en oportunidades para crecer y compartir conocimientos. Estoy motivado por la excelencia, la ética de trabajo y un firme compromiso con los plazos y objetivos del proyecto. 💼
+
+---
+
+## Tecnologías Dominadas
+
+- **Lenguajes de Programación:** Java 8, JavaScript
+- **Frameworks y Bibliotecas:** Spring Boot, React JS, React Native
+- **Base de Datos:** MySQL, Oracle Database, PL/SQL
+- **Herramientas y Otros:** Git, GitHub, CSS, HTML5, Bootstrap, Linux, Windows, Integración con AWS
+
+---
+
+¡Gracias por visitar mi perfil! Si deseas colaborar o conocer más sobre mis proyectos, ¡no dudes en contactarme! 😊
+
