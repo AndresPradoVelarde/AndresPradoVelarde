@@ -2,7 +2,7 @@
 
 ## Andrés Prado Velarde
 
-Desarrollador de Software | Java | SpringBoot | JavaScript | React Native | MySQL | Oracle | Egresado
+Ingeniero de Software | Java | SpringBoot | JavaScript | React Native | MySQL | Oracle | Egresado
 
 🔗 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-prado-velarde-9a30ba201/)
 ---
